@@ -126,12 +126,12 @@ Sou apaixonado por tecnologia e dedico meu tempo a estudar e criar projetos dura
 
 <p align="center">
     <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eo-dias&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eo-dias&theme=tokyonight&v=2"
         height="200"
         style="padding-right: 10px;"
     />
     <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eo-dias&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eo-dias&theme=tokyonight&v=2"
         height="200"
     />
 </p>

@@ -178,9 +178,6 @@ Sou apaixonado por tecnologia e dedico meu tempo a estudar e criar projetos dura
     <a href="https://matheus-dias.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/🌐_Acessar_Portfólio-000000?style=for-the-badge&logoColor=white" alt="Portfólio Online"/>
     </a>
-    <a href="https://github.com/Eo-dias/portfolio-react" target="_blank">
-        <img src="https://img.shields.io/badge/📂_Ver_Código-6D28D9?style=for-the-badge&logoColor=white" alt="Código Fonte"/>
-    </a>
 </p>
 
 ---

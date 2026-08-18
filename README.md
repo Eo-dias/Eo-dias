@@ -22,11 +22,18 @@ Sou apaixonado por tecnologia e dedico meu tempo a estudar e criar projetos dura
             src="https://custom-icon-badges.demolab.com/github/followers/Eo-dias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/matheus-dias-dos-santos-silveira-3b52a0366/">
+    <a href="https://www.linkedin.com/in/matheus-diass-/" target="_blank">
         <img
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/eo.diasx7/" target="_blank">
+        <img
+            alt="Instagram"
+            title="Me siga no Instagram"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
@@ -61,13 +68,28 @@ Sou apaixonado por tecnologia e dedico meu tempo a estudar e criar projetos dura
 />
 <img
     align="left"
-    alt="Bootstrap"
-    title="Bootstrap"
+    alt="React"
+    title="React"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
-
+<img
+    align="left"
+    alt="Tailwind CSS"
+    title="Tailwind CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+<img
+    align="left"
+    alt="Vite"
+    title="Vite"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
+/>
 <img
     align="left"
     alt="PHP"
@@ -75,6 +97,14 @@ Sou apaixonado por tecnologia e dedico meu tempo a estudar e criar projetos dura
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
 />
 <img
     align="left"
@@ -136,11 +166,21 @@ Sou apaixonado por tecnologia e dedico meu tempo a estudar e criar projetos dura
     />
 </p>
 
+---
+
 ### 🌐 Meu Portfólio
 
 <p align="center">
-    <a href="matheus-dias.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Ver_Portfólio_Online-6D28D9?style=for-the-badge&logoColor=white" alt="Portfólio"/>
+    Confira meu portfólio profissional desenvolvido em <strong>React</strong>!
+</p>
+
+<p align="center">
+    <a href="https://matheus-dias.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/🌐_Acessar_Portfólio-000000?style=for-the-badge&logoColor=white" alt="Portfólio Online"/>
+    </a>
+    <a href="https://github.com/Eo-dias/portfolio-react" target="_blank">
+        <img src="https://img.shields.io/badge/📂_Ver_Código-6D28D9?style=for-the-badge&logoColor=white" alt="Código Fonte"/>
     </a>
 </p>
 
+---

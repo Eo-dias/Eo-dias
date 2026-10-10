@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo **Matheus Dias**, tenho 17 anos e sou natural de **São Paulo**. 
+Me chamo **Matheus Dias**, tenho 18 anos e sou natural de **São Paulo**. 
 Atualmente, estou cursando o Ensino Médio integrado ao curso técnico em **Análise e Desenvolvimento de Sistemas (ADS)** na **Etec**. 
 
 Sou apaixonado por tecnologia e dedico meu tempo a estudar e criar projetos durante minha formação.
